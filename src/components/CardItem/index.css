@@ -1,0 +1,15 @@
+.each-img {
+  list-style-type: none;
+  margin: 10px;
+}
+.img-thumb {
+  height: 100px;
+  width: 100px;
+  border-radius: 8px;
+}
+.button-items {
+  border: none;
+  background-color: transparent;
+  cursor: pointer;
+  outline: none;
+}

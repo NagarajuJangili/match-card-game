@@ -1,0 +1,42 @@
+.nav-container {
+  height: 10vh;
+  display: flex;
+  padding: 8px;
+  flex-direction: row;
+  background-color: #cf60c8;
+  justify-content: space-between;
+}
+.logos-img {
+  height: 30px;
+  width: 170px;
+  margin-top: 8px;
+}
+.score-card {
+  display: flex;
+}
+.span-text {
+  color: #fec653;
+  font-size: 15px;
+}
+.score {
+  color: #ffffff;
+  font-size: 15px;
+  font-family: 'roboto';
+  margin-right: 20px;
+}
+.list-score {
+  list-style-type: none;
+  display: flex;
+}
+.timer {
+  height: 20px;
+  width: 20px;
+  margin-right: 10px;
+  margin-top: 10px;
+}
+.seconds {
+  font-size: 14px;
+  font-family: 'roboto';
+  color: #fec653;
+  margin-right: 20px;
+}

@@ -1,0 +1,26 @@
+.tab {
+  list-style-type: none;
+}
+.button-yellow {
+  border: none;
+  background-color: transparent;
+  cursor: pointer;
+  outline: none;
+  font-size: 18px;
+  font-family: 'roboto';
+  font-weight: 700;
+  text-decoration: underline;
+  color: #fec653;
+}
+
+.button-tab {
+  border: none;
+  background-color: transparent;
+  cursor: pointer;
+  outline: none;
+  font-size: 18px;
+  font-family: 'roboto';
+  font-weight: 700;
+  text-decoration: underline;
+  color: #ffffff;
+}
