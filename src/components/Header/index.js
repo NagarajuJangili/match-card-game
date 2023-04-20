@@ -11,7 +11,8 @@ const Header = props => {
       />
       <ul className="score-card">
         <li className="list-score">
-          <p className="score">{`Score: ${score}`}</p>
+          <p className="score">Score :</p>
+    <p className="span-text">{score}</p>
         </li>
         <li className="list-score">
           <img
