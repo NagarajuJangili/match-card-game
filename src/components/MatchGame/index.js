@@ -12,7 +12,7 @@ class MatchGame extends Component {
       imagesList: props.imagesList,
       tabsList: props.tabsList,
       randomEach:
-        props.imagesList[Math.floor(Math.random() * props.imagesList.length)],
+        props.imagesList[0],
       score: 0,
       seconds: 60,
       activeTab: 'FRUIT',
